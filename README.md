@@ -36,19 +36,7 @@ This program uses the `csv` crate for CSV parsing. The necessary dependency is s
 
 Feel free to contribute by opening issues or submitting pull requests. Follow the [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to the Rust community for creating and maintaining the `csv` crate.
 
----
-
-In your project, you can include the following files:
-
-- `CONTRIBUTING.md`: Guidelines for contributing to the project.
-- `LICENSE`: The license file specifying the terms under which the project is distributed.
-
-Feel free to customize the README based on your specific project details and features. Additionally, provide information about any other relevant details such as command-line options, expected CSV file format, etc., depending on the complexity of your program.
